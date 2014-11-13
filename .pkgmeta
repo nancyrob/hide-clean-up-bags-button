@@ -1,0 +1,5 @@
+package-as: HideCleanUpBagsButton
+
+manual-changelog:
+	filename: Changelog.txt
+	markup-type: creole

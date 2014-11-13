@@ -1,0 +1,6 @@
+## Interface: 60000
+## Title: Hide Clean Up Bags Button
+## Version: 1.0
+## Notes: Hides the "Clean Up Bags" button on your Backpack
+
+HideCleanUpBagsButton.lua
