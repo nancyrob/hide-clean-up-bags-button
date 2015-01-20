@@ -1,6 +1,7 @@
 ## Interface: 60000
 ## Title: Hide Clean Up Bags Button
-## Version: 1.0
-## Notes: Hides the "Clean Up Bags" button on your Backpack
+## Version: 1.1
+## Notes: Hides the "Clean Up" buttons on your Backpack, Bank, and Reagent Bank
+## SavedVariables: HCUBB_SAVEDVARIABLES
 
 HideCleanUpBagsButton.lua

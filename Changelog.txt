@@ -1,3 +1,10 @@
 **1.0**
 * Release date: 11/13/2014
 * Initial public release
+
+**1.1**
+* Release date: 01/19/2015
+* Now hides clean up bank/reagent bank button by default
+* New slash command /hidecleanupbagsbutton bank hide
+* New slash command /hidecleanupbagsbutton bank show
+* Alternate slash command access using /hcubb
