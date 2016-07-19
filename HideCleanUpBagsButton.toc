@@ -1,6 +1,6 @@
-## Interface: 60200
+## Interface: 70000
 ## Title: Hide Clean Up Bags Button
-## Version: 1.3
+## Version: 1.4
 ## Notes: Hides the "Clean Up" buttons on your Backpack, Bank, and Reagent Bank
 ## SavedVariables: HCUBB_SAVEDVARIABLES
 
